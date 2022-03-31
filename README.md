@@ -1,2 +1,2 @@
 # capstone
-# Dtata Science project
+# Data Science project
